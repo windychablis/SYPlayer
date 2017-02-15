@@ -4,9 +4,9 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import com.chablis.syplayer.application.Settings;
 import com.chablis.syplayer.widget.media.AndroidMediaController;
 import com.chablis.syplayer.widget.media.IjkVideoView;
+import com.chablis.syplayer.widget.media.Settings;
 
 import tv.danmaku.ijk.media.player.IMediaPlayer;
 import tv.danmaku.ijk.media.player.IjkMediaPlayer;

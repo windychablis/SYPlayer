@@ -15,7 +15,7 @@
  * limitations under the License.
  */
 
-package com.chablis.syplayer.application;
+package com.chablis.syplayer.widget.media;
 
 import android.content.Context;
 import android.content.SharedPreferences;
